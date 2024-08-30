@@ -1,6 +1,6 @@
 ![Car Crash](https://github.com/sourceduty/Vehicle_Accident_Areas-/assets/123030236/eca156b2-ccaa-4cb0-8e30-8f3617915e0c)
 
-> Conceptual software model for analyzing and predicting potential pedestrian and vehicle accident hotspots on roadways in towns, cities, and highways in-between.
+> Analyzing and predicting potential pedestrian and vehicle accident hotspots on roadways in towns, cities, and highways in-between.
 
 #
 
