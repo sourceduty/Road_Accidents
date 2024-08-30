@@ -32,6 +32,8 @@ By combining data analysis, geospatial mapping, and traffic simulation, the Vehi
 [Road Optimizer](https://github.com/sourceduty/Road_Optimizer)
 <br>
 [Vehicle Speed Reducer](https://github.com/sourceduty/Vehicle_Speed_Reducer)
+<br>
+[Car Analyst](https://github.com/sourceduty/Car_Analyst)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
