@@ -36,6 +36,15 @@ Highways, in particular, pose a unique danger to pedestrians due to the high spe
 Despite these measures, pedestrians sometimes find themselves needing to cross where no safe crossing options exist. In such scenarios, additional safety measures, such as pedestrian bridges or underpasses, can be effective alternatives. Public awareness campaigns also play a significant role in educating both drivers and pedestrians about the dangers of crossing roads at unsafe locations. By combining infrastructure improvements with education and clear signage, the goal is to reduce the number of pedestrian-related accidents and fatalities, making roads safer for everyone.
 
 #
+### Shortcut Pathways
+
+![Pathways](https://github.com/user-attachments/assets/3b5cabe4-5a28-4bfb-b077-19ea41d74eb8)
+
+Pathways in cities and towns, often referred to as "desire paths" or "desire lines," are informal tracks created by the consistent foot traffic of pedestrians taking shortcuts through grassy areas, parks, or other open spaces. These paths emerge organically as people opt for the most direct or convenient route between two points, rather than following the prescribed sidewalks or paved walkways. They are a clear indication of the natural flow of pedestrian movement and can reflect the most efficient way to navigate a space. Over time, the repeated use of these routes erodes the grass and compacts the soil, making the paths more visible and permanent.
+
+Urban planners and landscape architects sometimes use desire paths to inform the design of official walkways, as they provide valuable insight into how people naturally move through an area. Incorporating these informal routes into urban planning can improve the accessibility and usability of public spaces, making them more aligned with the actual needs and behaviors of the community. However, desire paths can also pose challenges, such as soil erosion, damage to landscaped areas, or conflicts with existing land use plans. Balancing the preservation of green spaces with the practical needs of pedestrians is a key consideration in modern urban design.
+
+#
 ### Related Links
 
 [Safety Recalls](https://github.com/sourceduty/Safety_Recalls)
