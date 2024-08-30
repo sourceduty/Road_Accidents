@@ -34,6 +34,14 @@ Technology also plays a significant role in enhancing pedestrian safety. Innovat
 [Vehicle Speed Reducer](https://github.com/sourceduty/Vehicle_Speed_Reducer)
 <br>
 [Car Analyst](https://github.com/sourceduty/Car_Analyst)
+<br>
+[Road Director](https://github.com/sourceduty/Road_Director)
+<br>
+[Predictive Route](https://github.com/sourceduty/Predictive_Route)
+<br>
+[Car Design](https://github.com/sourceduty/Car_Design)
+<br>
+[Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
